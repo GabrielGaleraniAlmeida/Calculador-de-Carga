@@ -1,0 +1,2952 @@
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Outono: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Outono: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2021 Outono
+ERROR:root:Failed to calculate consumo médio for 2021 Outono
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Inverno: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Inverno: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2021 Inverno
+ERROR:root:Failed to calculate consumo médio for 2021 Inverno
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Primavera: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Primavera: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2021 Primavera
+ERROR:root:Failed to calculate consumo médio for 2021 Primavera
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Verão: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2021&season=Verão: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2021 Verão
+ERROR:root:Failed to calculate consumo médio for 2021 Verão
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Outono: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Outono: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2022 Outono
+ERROR:root:Failed to calculate consumo médio for 2022 Outono
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Inverno: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Inverno: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2022 Inverno
+ERROR:root:Failed to calculate consumo médio for 2022 Inverno
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Primavera: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Primavera: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2022 Primavera
+ERROR:root:Failed to calculate consumo médio for 2022 Primavera
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Verão: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2022&season=Verão: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2022 Verão
+ERROR:root:Failed to calculate consumo médio for 2022 Verão
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Outono: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Outono: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2023 Outono
+ERROR:root:Failed to calculate consumo médio for 2023 Outono
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Inverno: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Inverno: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2023 Inverno
+ERROR:root:Failed to calculate consumo médio for 2023 Inverno
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Primavera: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Primavera: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2023 Primavera
+ERROR:root:Failed to calculate consumo médio for 2023 Primavera
+INFO:root:Requesting https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Verão: 404
+ERROR:root:Failed to request https://dados.ons.org.br/api/v1/dataset/carga-energia-verificada/data?year=2023&season=Verão: <!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.2" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404 - DADOS ABERTOS ONS</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/barraglobal/v1/css/_barraons.css"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">  
+      <link href="/base/css/neutra_display_thin_alt.css" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    
+        
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html start -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-198149953-1', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- Snippet googleanalytics/snippets/googleanalytics_header.html end -->
+
+    
+
+      
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/8259b72f_main.css" rel="stylesheet"/>
+    
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFSJ19QBE0"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-EFSJ19QBE0');
+	</script>
+
+	<meta
+	  name="description"
+	  content="O Portal de Dados Abertos do ONS reúne dados históricos do setor elétrico brasileiro de maneira fácil e democrática.">
+
+	<!-- Hotjar Tracking Code for Dados Abertos ONS -->
+	<script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2430125,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
+
+  </head>
+
+  
+  <body data-site-root="https://dados.ons.org.br/" data-locale-root="https://dados.ons.org.br/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+
+<!--BARRA ONS-->
+<div id="divOnsTopo" class="ons-topo" style="z-index:999;"></div>
+<!--END OF BARRA ONS-->
+
+
+ 
+
+
+<header class="navbar navbar-static-top masthead ">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="/"><img src="https://dados.ons.org.br/base/images/logodadosabertos.png" alt="DADOS ABERTOS ONS" title="DADOS ABERTOS ONS" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+		<li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li><li><a href="/about">Sobre</a></li>
+	    
+        </ul>
+      </nav>
+       
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links footer-itens ">
+        <span>© - Copyright <span class="year">2021</span>- ONS</span>
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/about">Sobre DADOS ABERTOS ONS</a></li>
+            
+              <li>
+                <a href="http://www.ons.org.br/secundario/enderecos">Endereços</a>
+              </li>
+          
+              <li>
+                <a href="http://www.ons.org.br/secundario/mapa-do-site">Mapa do Site</a>
+              </li>
+          
+              <li>
+                  <a href="http://www.ons.org.br/secundario/politica-de-privacidade">Politica de Privacidade</a>
+              </li>
+          
+              <li>
+                <a href="http://www.go15.org/">Membro do GO15</a>
+              </li>
+          </ul>
+          <!--ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API do CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Associação CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul-->
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/msal-browser.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/siteassets/custom/js/jquery.jwt.min.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/js/variables.js"></script>
+    <script type="text/javascript" src="https://sintegre.ons.org.br/sites/cdn/SiteAssets/custom/BarraGlobal/V1.1/js/_barraons.js"></script>
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/ab26884f_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="/webassets/base/acf3e552_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?2cf0c834" type="text/javascript"></script>
+  </body>
+</html>
+ERROR:root:Failed to get data for 2023 Verão
+ERROR:root:Failed to calculate consumo médio for 2023 Verão
